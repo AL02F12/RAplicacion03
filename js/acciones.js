@@ -14,4 +14,12 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	
+	$('#dinoo').tap(function (e) {
+ 	 $.mobile.navigate( "#din" );
+	});
+	
+	$('#acerca').tap(function (e) {
+ 	 $.mobile.navigate( "#acer" );
+	});
 });//ready
